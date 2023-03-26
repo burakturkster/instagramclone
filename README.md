@@ -12,6 +12,6 @@ Kendimi ***KODLUYORUZ/patika.dev*** iş birliği ile geliştiriyorum.
 
 ![patika](https://pbs.twimg.com/media/Dg7M-w3X0AEMsJ5.jpg:large)
 
-Emeğinize sağlık 
+Emeğinize sağlık
 ---
 Burak TÜRK/Frontend Developer
